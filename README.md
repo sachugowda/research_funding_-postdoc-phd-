@@ -7,3 +7,7 @@
 ## Ireland 
 
 - **[DIGI+ Research Fellowship Programme](https://digipluscofund.eu/)**: DIGI+ is a world-class research fellowship programme, cofunded by Marie Skłodowska-Curie Actions (MSCA), on Sustainable Digital Transformation. It aims for a new generation of creative, entrepreneurial, and innovative researcher leaders, able to face current and future challenges aligned with the EU’s Digital and Green Agenda.
+
+## Czech Republic
+
+- **[JUNIOR Fund (Post-Doc)](https://cuni.cz/UKEN-178.html)**: The JUNIOR Fund supports postdoctoral researchers at Charles University, Prague, offering funding for high-quality research projects and fostering career development in various academic disciplines.

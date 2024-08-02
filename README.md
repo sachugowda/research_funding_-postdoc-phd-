@@ -1,3 +1,7 @@
+
+
+---
+
 # Funding Opportunities for Postdoc / PhD
 
 ## Slovakia
@@ -11,3 +15,11 @@
 ## Czech Republic
 
 - **[JUNIOR Fund (Post-Doc)](https://cuni.cz/UKEN-178.html)**: The JUNIOR Fund supports postdoctoral researchers at Charles University, Prague, offering funding for high-quality research projects and fostering career development in various academic disciplines.
+
+## Spain and Portugal
+
+- **[Postdoctoral Junior Leader Fellowships (Incoming Call)](https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships-incoming-call)**: The Postdoctoral Junior Leader Fellowships, funded by the "la Caixa" Foundation, support highly talented researchers in their postdoctoral stage in Spain and Portugal. The program offers a framework to develop groundbreaking projects and promote research excellence in various disciplines.
+
+---
+
+

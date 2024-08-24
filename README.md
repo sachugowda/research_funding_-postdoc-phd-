@@ -55,7 +55,7 @@
 
 ## Netherlands
 
-- **[NWO Veni Fellowships](https://www.nwo.nl/en/funding/our-funding-instruments/nwo/veni/veni.html)**: The Veni Fellowship is part of the NWO Talent Programme, supporting early-career researchers in the Netherlands. The fellowship provides funding for independent research and career development.
+- **[NWO Veni Fellowships](https://www.nwo.nl/en)**: The Veni Fellowship is part of the NWO Talent Programme, supporting early-career researchers in the Netherlands. The fellowship provides funding for independent research and career development.
 
 ## Belgium
 

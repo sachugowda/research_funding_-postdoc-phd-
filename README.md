@@ -59,7 +59,7 @@
 
 ## Belgium
 
-- **[FWO Postdoctoral Fellowships](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/)**: The Research Foundation - Flanders (FWO) offers postdoctoral fellowships to support researchers in developing their academic careers in Belgium. The fellowship provides funding for up to three years.
+- **[FWO Postdoctoral Fellowships](https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/)**: The Research Foundation - Flanders (FWO) offers postdoctoral fellowships to support researchers in developing their academic careers in Belgium. The fellowship provides funding for up to three years.
 
 ## International
 

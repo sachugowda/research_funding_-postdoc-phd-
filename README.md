@@ -51,7 +51,7 @@
 
 ## Sweden
 
-- **[Wenner-Gren Fellowships](https://www.swgc.org/wenner-gren-fellows.html)**: The Wenner-Gren Foundation offers postdoctoral fellowships to researchers from all over the world. The fellowships support research in Sweden and promote international collaboration and scientific excellence.
+- **[Wenner-Gren Fellowships](https://www.swgc.org/)**: The Wenner-Gren Foundation offers postdoctoral fellowships to researchers from all over the world. The fellowships support research in Sweden and promote international collaboration and scientific excellence.
 
 ## Netherlands
 

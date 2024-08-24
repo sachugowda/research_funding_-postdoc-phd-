@@ -1,5 +1,4 @@
 
-
 # Funding Opportunities for Postdoc / PhD
 
 ## Slovakia
@@ -32,7 +31,39 @@
 
 - **[ERCIM Alain Bensoussan Fellowship Programme](https://fellowship.ercim.eu/)**: The ERCIM Alain Bensoussan Fellowship Programme offers fellowships for PhD holders from all over the world. The fellowship provides an opportunity to work in leading European research institutions in fields related to Information and Communication Technology (ICT) and Applied Mathematics, promoting international collaboration and excellence in research.
 
----
+## United Kingdom
 
+- **[UKRI Future Leaders Fellowships](https://www.ukri.org/what-we-offer/developing-people-and-skills/future-leaders-fellowships/)**: The UKRI Future Leaders Fellowships support early-career researchers and innovators with outstanding potential across all disciplines. The fellowship offers funding for up to seven years, supporting research, leadership development, and career progression.
 
+- **[Royal Society Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)**: The Newton International Fellowship provides funding for postdoctoral researchers from around the world to work at UK institutions. The fellowship aims to foster long-term international collaboration and support early-career researchers in building a global network.
+
+## Germany
+
+- **[Alexander von Humboldt Foundation Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)**: The Humboldt Research Fellowship supports postdoctoral and experienced researchers from all over the world to conduct research in Germany. The fellowship provides financial support and opportunities for networking with other researchers.
+
+- **[Max Planck Society Postdoctoral Fellowship](https://www.mpg.de/career-programs/postdocs)**: The Max Planck Society offers postdoctoral fellowships for outstanding researchers in various fields. The fellowship provides the opportunity to work in one of the Max Planck Institutes and engage in cutting-edge research.
+
+## France
+
+- **[CNRS Postdoctoral Fellowships](https://www.cnrs.fr/en/cnrs)**: The CNRS offers postdoctoral fellowships in various disciplines, supporting researchers in their early career stages to develop their skills and conduct high-impact research in France.
+
+- **[Pasteur-Roux-Cantarini Postdoctoral Fellowships](https://research.pasteur.fr/en/program_post/pasteur-roux-cantarini-fellowship/)**: The Institut Pasteur offers the Pasteur-Roux-Cantarini Postdoctoral Fellowships to support young researchers conducting biomedical research in one of the Institute's laboratories in Paris.
+
+## Sweden
+
+- **[Wenner-Gren Fellowships](https://www.swgc.org/wenner-gren-fellows.html)**: The Wenner-Gren Foundation offers postdoctoral fellowships to researchers from all over the world. The fellowships support research in Sweden and promote international collaboration and scientific excellence.
+
+## Netherlands
+
+- **[NWO Veni Fellowships](https://www.nwo.nl/en/funding/our-funding-instruments/nwo/veni/veni.html)**: The Veni Fellowship is part of the NWO Talent Programme, supporting early-career researchers in the Netherlands. The fellowship provides funding for independent research and career development.
+
+## Belgium
+
+- **[FWO Postdoctoral Fellowships](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/)**: The Research Foundation - Flanders (FWO) offers postdoctoral fellowships to support researchers in developing their academic careers in Belgium. The fellowship provides funding for up to three years.
+
+## International
+
+- **[Human Frontier Science Program (HFSP) Postdoctoral Fellowships](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)**: The HFSP offers postdoctoral fellowships to researchers from all over the world, focusing on innovative and interdisciplinary life sciences research. The fellowships support international collaboration and career development.
+
+- **[Schmidt Science Fellows](https://schmidtsciencefellows.org/)**: The Schmidt Science Fellows program offers postdoctoral fellowships to outstanding researchers in the natural sciences, engineering, and mathematics. The fellowship supports interdisciplinary research and provides leadership training.
 

@@ -45,13 +45,13 @@
 
 ## Postdoctoral Fellowship Opportunities in France
 
-### [CNRS Postdoctoral Fellowships](https://www.cnrs.fr/en/cnrs)
+- **[CNRS Postdoctoral Fellowships](https://www.cnrs.fr/en/cnrs)**
 The French National Centre for Scientific Research (CNRS) offers a range of postdoctoral fellowships for researchers in various fields. These fellowships are designed to support early-career researchers in advancing their skills and knowledge through high-impact research projects in France. CNRS is one of the largest and most prestigious research organizations in the country, offering opportunities in science, engineering, humanities, and social sciences.
 
-### [Pasteur-Roux-Cantarini Postdoctoral Fellowships](https://research.pasteur.fr/en/program_post/pasteur-roux-cantarini-fellowship/)
+- **[Pasteur-Roux-Cantarini Postdoctoral Fellowships](https://research.pasteur.fr/en/program_post/pasteur-roux-cantarini-fellowship/)**
 The Institut Pasteur offers the Pasteur-Roux-Cantarini Postdoctoral Fellowships for young scientists. These fellowships are aimed at those wishing to carry out biomedical research within one of the Institute's world-renowned laboratories located in Paris. The program encourages international researchers to engage in advanced research that aligns with the Institut Pasteur's focus on microbiology, immunology, and disease-related sciences.
 
-### [MOPGA 2025 Visiting Fellowship Program for Early Career Researchers](https://www.campusfrance.org/en/actu/open-call-mopga-2025-visiting-fellowschip-program-for-early-carrer-researchers)
+- **[MOPGA 2025 Visiting Fellowship Program for Early Career Researchers](https://www.campusfrance.org/en/actu/open-call-mopga-2025-visiting-fellowschip-program-for-early-carrer-researchers)**
 The MOPGA 2025 Visiting Fellowship Program is designed for early-career researchers to conduct scientific research in France in collaboration with French research teams. This program is part of the Ministry of Europe and Foreign Affairs' effort to promote international scientific cooperation. It is ideal for young researchers who wish to develop their careers while gaining experience in a global research environment. Fellows benefit from access to France's diverse research institutions and facilities.
 
 ## Sweden

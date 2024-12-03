@@ -44,11 +44,13 @@ The Research Council of Norway offers postdoctoral research fellowships aimed at
 
 ## Germany
 
-- **[Alexander von Humboldt Foundation Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)**: The Humboldt Research Fellowship supports postdoctoral and experienced researchers from all over the world to conduct research in Germany. The fellowship provides financial support and opportunities for networking with other researchers.
+- **[Alexander von Humboldt Foundation Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)**: This prestigious fellowship is aimed at postdoctoral and experienced researchers from all over the world. It offers financial support and facilitates collaboration with other researchers in Germany. The fellowship allows scholars to conduct independent research while building strong networks in their academic field.
 
-- **[Max Planck Society Postdoctoral Fellowship](https://www.mpg.de/career-programs/postdocs)**: The Max Planck Society offers postdoctoral fellowships for outstanding researchers in various fields. The fellowship provides the opportunity to work in one of the Max Planck Institutes and engage in cutting-edge research.
+- **[Max Planck Society Postdoctoral Fellowship](https://www.mpg.de/career-programs/postdocs)**: The Max Planck Society provides postdoctoral fellowships to outstanding researchers across a variety of fields. This fellowship gives fellows the opportunity to work at one of the renowned Max Planck Institutes, contributing to cutting-edge research in a dynamic and interdisciplinary environment.
 
-## Postdoctoral Fellowship Opportunities in France
+- **[German Research Foundation (DFG) Research Fellowships](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/research-fellowships)**: The DFG offers research fellowships for postdoctoral researchers wishing to carry out independent research in Germany. These fellowships provide financial support for researchers to complete their projects and engage in academic exchanges within the German research community.
+
+## France
 
 - **[CNRS Postdoctoral Fellowships](https://www.cnrs.fr/en/cnrs)**
 The French National Centre for Scientific Research (CNRS) offers a range of postdoctoral fellowships for researchers in various fields. These fellowships are designed to support early-career researchers in advancing their skills and knowledge through high-impact research projects in France. CNRS is one of the largest and most prestigious research organizations in the country, offering opportunities in science, engineering, humanities, and social sciences.

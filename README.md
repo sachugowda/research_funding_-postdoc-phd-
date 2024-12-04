@@ -41,6 +41,8 @@ The Research Council of Norway offers postdoctoral research fellowships aimed at
 - **[UKRI Future Leaders Fellowships](https://www.ukri.org/what-we-offer/developing-people-and-skills/future-leaders-fellowships/)**: The UKRI Future Leaders Fellowships support early-career researchers and innovators with outstanding potential across all disciplines. The fellowship offers funding for up to seven years, supporting research, leadership development, and career progression.
 
 - **[Royal Society Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)**: The Newton International Fellowship provides funding for postdoctoral researchers from around the world to work at UK institutions. The fellowship aims to foster long-term international collaboration and support early-career researchers in building a global network.
+  
+- **[Hardiman Scholarships for PhD](https://www.universityofgalway.ie/hardiman-scholarships/)**: The Hardiman PhD Scholarships are fully funded for four years, with a stipend of €25,000 p.a. plus tuition fee covered. High-achieving individuals, with drive and passion, who have an appetite for the research world and creativity, who thrive on intellectual excitement, and who will positively impact and shape the future for all in our society.  Using your creative energy, your PhD journey at the University of Galway will be alive with possibilities and opportunities.
 
 ## Germany
 

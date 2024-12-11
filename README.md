@@ -63,6 +63,10 @@ The Institut Pasteur offers the Pasteur-Roux-Cantarini Postdoctoral Fellowships 
 - **[MOPGA 2025 Visiting Fellowship Program for Early Career Researchers](https://www.campusfrance.org/en/actu/open-call-mopga-2025-visiting-fellowschip-program-for-early-carrer-researchers)**
 The MOPGA 2025 Visiting Fellowship Program is designed for early-career researchers to conduct scientific research in France in collaboration with French research teams. This program is part of the Ministry of Europe and Foreign Affairs' effort to promote international scientific cooperation. It is ideal for young researchers who wish to develop their careers while gaining experience in a global research environment. Fellows benefit from access to France's diverse research institutions and facilities.
 
+- **[Call for Postdoc 2025 (March 17, 2025: Deadline for the submission of applications) – Young Researcher Excellence Fellowships](https://univ-cotedazur.fr/universite/idex/appels-a-projets/appels-a-projets-recherche/call-for-postdoc-2025-young-researcher-excellence-fellowships-projects)**  
+This program offers young researchers the chance to conduct innovative research in collaboration with institutions in the French Riviera region. It is designed to support the professional development of talented postdoctoral researchers by providing them with the opportunity to undertake ambitious scientific projects in collaboration with experienced research teams.
+
+
 ## Sweden
 
 - **[Wenner-Gren Fellowships](https://www.swgc.org/)**: The Wenner-Gren Foundation offers postdoctoral fellowships to researchers from all over the world. The fellowships support research in Sweden and promote international collaboration and scientific excellence.

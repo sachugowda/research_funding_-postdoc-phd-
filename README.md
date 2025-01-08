@@ -4,7 +4,15 @@
 ### Norway
 
 - **[Post-Doctoral Research Fellowships - The Research Council of Norway](https://www.forskningsradet.no/en/financing/what/post-doctoral-research-fellowships/)**
-The Research Council of Norway offers postdoctoral research fellowships aimed at researchers who have completed a doctoral degree and wish to continue their academic or applied research careers. These fellowships are designed to support the development of independent research projects, either in Norway or in collaboration with international research environments. The program provides funding for researchers across various fields and promotes innovation, scientific advancement, and collaboration with industry and society.
+  The Research Council of Norway offers postdoctoral research fellowships aimed at researchers who have completed a doctoral degree and wish to continue their academic or applied research careers. These fellowships are designed to support the development of independent research projects, either in Norway or in collaboration with international research environments. The program provides funding for researchers across various fields and promotes innovation, scientific advancement, and collaboration with industry and society.
+
+- **[DScience Post-Doctoral Fellowships - University of Oslo](https://www.uio.no/dscience/english/dstrain/)**
+  The University of Oslo's DScience initiative offers support for post-doctoral research fellows through its **DStrain** program. This program focuses on building and promoting cutting-edge research in science and technology, with an emphasis on interdisciplinary collaboration. Fellows involved in DStrain gain access to world-class research facilities and the opportunity to work with renowned scientists in both academic and industrial settings. The program is designed to foster innovation and ensure that Norway remains at the forefront of scientific research.
+
+### Denmark
+
+- **[Postdoctoral Fellowship Call 2025 - Data Science and Artificial Intelligence, Danish Data Science Academy](https://ddsa.dk/postdocfellowshipcall2025/)**
+  The Danish Data Science Academy offers postdoctoral fellowships for researchers focusing on data science and artificial intelligence. These fellowships aim to strengthen interdisciplinary research in the areas of data-driven technology and AI, contributing to the development of innovative solutions that can benefit both academia and industry. The fellowship includes funding for independent research, access to collaborative networks, and the opportunity to engage in transformative research that aligns with Denmark's strategic objectives in the field of data science.
 
 ## Slovakia
 
